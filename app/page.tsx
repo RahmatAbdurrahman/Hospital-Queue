@@ -428,7 +428,7 @@ const HospitalSPK = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.2 }}
               >
-                Hospital SPK
+                HospitalQ
               </motion.h1>
             )}
             <Button
